@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T13:49:48.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="Gg9BjcKbAkHxQg0oSerz" type="github"><diagram id="kDP8_yFhMwFEbC5xdp3H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-20T14:03:15.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NYwn-FRYkc2bPSFNDtkg" version="14.6.13" type="github">
+  <diagram id="kDP8_yFhMwFEbC5xdp3H" name="Page-1">
+    <mxGraphModel dx="1117" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-1" value="ADDRESS OF MATICS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-2" value="AMOUNT OF ETHER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-3" value="SEND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-8" value="METAMASK SHOULD ASK ETHER TO TRANSFER" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="190" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-9" value="SEND ETHERS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-10" value="CONNECT A SMART CONTRACT USING REMIX AND WEB3.JS TO ACHIEVE THIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-11" value="FIG: COPY OF THE&amp;nbsp; STATIC WEBSITE WE HAVE DONE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="300" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.421;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8s20l_UtGeJsBAfl1Azl-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8s20l_UtGeJsBAfl1Azl-13" value="A CREATED MATIC SHOULD RECIEVE THE ETHERS TO MATIC NETWORK" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="190" height="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
